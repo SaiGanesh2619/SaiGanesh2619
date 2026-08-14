@@ -15,9 +15,6 @@
   <a href="https://leetcode.com/u/Sai_Ganesh19/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/SaiGanesh2619">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -147,6 +144,7 @@ Secure voting system built with **linked lists, queues & stacks** for voter mana
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SaiGanesh2619&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 📫 Connect With Me
@@ -160,9 +158,6 @@ Secure voting system built with **linked lists, queues & stacks** for voter mana
   </a>
   <a href="https://leetcode.com/u/Sai_Ganesh19/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/SaiGanesh2619">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
