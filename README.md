@@ -77,7 +77,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Credit Card Fraud Detection System](https://github.com/Ganesh1926-22)
+#### 🔹 [Credit Card Fraud Detection System](https://github.com/SaiGanesh2619)
 Machine learning model using **Logistic Regression, Random Forest & AdaBoost** to detect fraudulent transactions, with full data preprocessing, feature engineering, and model comparison for improved accuracy.
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
