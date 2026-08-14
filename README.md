@@ -77,7 +77,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Credit Card Fraud](https://github.com/SaiGanesh2619)
+#### 🔹 [Credit Card Fraud_Detection](https://github.com/SaiGanesh2619/credit_card_fraud)
 Machine learning model using **Logistic Regression, Random Forest & AdaBoost** to detect fraudulent transactions, with full data preprocessing, feature engineering, and model comparison for improved accuracy.
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
@@ -85,7 +85,7 @@ Machine learning model using **Logistic Regression, Random Forest & AdaBoost** t
 ML application predicting scholarship eligibility from academic and financial data, using a **Decision Tree classifier** with an interactive **Shiny** interface.
 `Python` `Decision Tree` `Shiny`
 
-#### 🔹 [Budget Tracker1](https://github.com/Ganesh1926-22)
+#### 🔹 [Budget Tracker_Application](https://github.com/SaiGanesh2619/budget_tracker1)
 A budget tracking app for recording income/expenses with categorized financial reports, helping users monitor spending and manage personal finances.
 `HTML` `CSS` `JavaScript` `SQL`
 
