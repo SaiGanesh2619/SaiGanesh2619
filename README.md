@@ -145,7 +145,7 @@ Secure voting system built with **linked lists, queues & stacks** for voter mana
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiGanesh2619&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SaiGanesh2619&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 ---
 
