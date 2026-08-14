@@ -81,7 +81,7 @@
 Machine learning model using **Logistic Regression, Random Forest & AdaBoost** to detect fraudulent transactions, with full data preprocessing, feature engineering, and model comparison for improved accuracy.
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
-#### 🔹 [Scholarship Eligibility Prediction](https://github.com/SaiGanesh2619/)
+#### 🔹 [Scholarship Eligibility Prediction](https://github.com/SaiGanesh2619/ScholarShip_Eligibility_Predictor)
 ML application predicting scholarship eligibility from academic and financial data, using a **Decision Tree classifier** with an interactive **Shiny** interface.
 `Python` `Decision Tree` `Shiny`
 
@@ -89,7 +89,7 @@ ML application predicting scholarship eligibility from academic and financial da
 A budget tracking app for recording income/expenses with categorized financial reports, helping users monitor spending and manage personal finances.
 `HTML` `CSS` `JavaScript` `SQL`
 
-#### 🔹 [Online Voting System](https://github.com/SaiGanesh2619)
+#### 🔹 [Online Voting System](https://github.com/SaiGanesh2619/Online_Voting_System)
 Secure voting system built with **linked lists, queues & stacks** for voter management, featuring authentication, vote casting, and real-time result generation.
 `C` `Data Structures`
 
